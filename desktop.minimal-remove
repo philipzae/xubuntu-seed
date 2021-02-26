@@ -93,7 +93,9 @@ sgt-launcher
 
 # Themes
 adwaita-icon-theme-full
+arc-theme
 numix-gtk-theme
+numix-blue-gtk-theme
 xubuntu-community-wallpapers
 
 # The gstreamer1.0 packages we want to install

@@ -103,8 +103,10 @@ Basic network services and Windows integration.
 
 === Themes ===
  * (adwaita-icon-theme-full)        # Base Adwaita theme is broken (LP: #1866814)
+ * (arc-theme)
  * (greybird-gtk-theme)
  * (numix-gtk-theme)
+ * (numix-blue-gtk-theme)
  * (xubuntu-community-wallpapers)
 
 == The gstreamer1.0 packages we want to install ==
